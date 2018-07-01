@@ -8,4 +8,4 @@ const imagesName =
     '1000.jpg',
 ]
 
-new Slide('.slider', imagePath, imagesName)
+new Slide('.slider', imagePath, imagesName, 20)
